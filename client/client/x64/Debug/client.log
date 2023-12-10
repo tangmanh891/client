@@ -1,0 +1,33 @@
+﻿  FileName.cpp
+C:\Users\tangm\source\repos\client\client\FileName.cpp(93,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tangm\source\repos\client\client\FileName.cpp(99,66): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tangm\source\repos\client\client\FileName.cpp(164,61): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\tangm\source\repos\client\client\FileName.cpp(164,61): warning C4267:         with
+C:\Users\tangm\source\repos\client\client\FileName.cpp(164,61): warning C4267:         [
+C:\Users\tangm\source\repos\client\client\FileName.cpp(164,61): warning C4267:             _Ty=int
+C:\Users\tangm\source\repos\client\client\FileName.cpp(164,61): warning C4267:         ]
+C:\Users\tangm\source\repos\client\client\FileName.cpp(255,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tangm\source\repos\client\client\FileName.cpp(258,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tangm\source\repos\client\client\FileName.cpp(261,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tangm\source\repos\client\client\FileName.cpp(264,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tangm\source\repos\client\client\FileName.cpp(267,45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tangm\source\repos\client\client\FileName.cpp(270,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tangm\source\repos\client\client\FileName.cpp(273,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tangm\source\repos\client\client\FileName.cpp(275,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tangm\source\repos\client\client\FileName.cpp(278,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tangm\source\repos\client\client\FileName.cpp(280,57): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tangm\source\repos\client\client\FileName.cpp(283,69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tangm\source\repos\client\client\FileName.cpp(316,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tangm\source\repos\client\client\FileName.cpp(320,89): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tangm\source\repos\client\client\FileName.cpp(323,75): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\tangm\source\repos\client\client\FileName.cpp(482,17): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\tangm\source\repos\client\client\FileName.cpp(483,17): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\tangm\source\repos\client\client\FileName.cpp(484,17): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\tangm\source\repos\client\client\FileName.cpp(485,17): warning C4267: 'initializing': conversion from 'size_t' to 'char', possible loss of data
+C:\Users\tangm\source\repos\client\client\FileName.cpp(671,25): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\tangm\source\repos\client\client\FileName.cpp(683,25): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\tangm\source\repos\client\client\FileName.cpp(695,25): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\tangm\source\repos\client\client\FileName.cpp(707,25): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\tangm\source\repos\client\client\FileName.cpp(719,25): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\tangm\source\repos\client\client\FileName.cpp(843,25): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  client.vcxproj -> C:\Users\tangm\source\repos\client\x64\Debug\client.exe
